@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Esra Mohammed Mustafa</h1>
-<h3 align="center">A passionate frontend developer from Sudan</h3>
+<h3 align="center">A passionate full stack developer from Sudan</h3>
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:2fe11b22-16c4-34c7-8631-ecf1dc9194ad](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:2fe11b22-16c4-34c7-8631-ecf1dc9194ad)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
