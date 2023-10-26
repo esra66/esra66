@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17711
-Fork on GitHub
-5184
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Esra Mohammed Mustafa</h1>
 <h3 align="center">A passionate frontend developer from Sudan</h3>
 
